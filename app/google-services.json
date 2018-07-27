@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "683857302624",
+    "firebase_url": "https://forsale-db56d.firebaseio.com",
+    "project_id": "forsale-db56d",
+    "storage_bucket": "forsale-db56d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683857302624:android:4e4a08c5fce19d78",
+        "android_client_info": {
+          "package_name": "com.example.anti2110.forsale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683857302624-sqd5rbpvpo28q8a6uhcbvihujnhskjke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anti2110.forsale",
+            "certificate_hash": "2b8d1e43095b52001089a1c200030e551ae092d6"
+          }
+        },
+        {
+          "client_id": "683857302624-00su8fumkvdpib5o9ngmobr4ojb4qn4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3GFN9YlZELcm2HrPKBOtaNNMfFUDfxe8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683857302624-00su8fumkvdpib5o9ngmobr4ojb4qn4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
